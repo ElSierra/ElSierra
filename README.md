@@ -1,14 +1,3 @@
-<style>
-    .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-
-  border-radius: 20px
-}
-
-    </style>
 
 
 <h1 align="center">Hi 👋, I'm Ojo Isaac</h1>
