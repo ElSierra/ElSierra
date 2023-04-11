@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ojo Isaac</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/25958179?v=4" style='display: block;
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ElSierra/elsierra.github.io/main/assets/hi.png" style='display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
