@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <a>
-<p align="left">
+<a href=" https://linkedin.com/in/hojoisaac" align="left">
   https://linkedin.com/in/hojoisaac
-</p></a>
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/></a>
