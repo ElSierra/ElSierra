@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a>
-<a href=" https://linkedin.com/in/hojoisaac" align="left">
+<a href="https://linkedin.com/in/hojoisaac" align="left">
   https://linkedin.com/in/hojoisaac
 </a>
 <h3 align="left">Languages and Tools:</h3>
