@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ojo Isaac</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer & Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ElSierra/elsierra.github.io/main/assets/hi.png" style='display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
   border-radius: 20px; ' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsierra&label=Profile%20views&color=0e75b6&style=flat" alt="elsierra" /> </p>
-🌱 I’m currently learning Go
+🌱 I’m currently learning Rust
 
 💬 Ask me about anything
 
