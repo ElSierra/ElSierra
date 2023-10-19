@@ -19,7 +19,7 @@
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/react.png?raw=true" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src='https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png'  width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
