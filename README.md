@@ -23,9 +23,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src='https://github.com/ElSierra/mystack-icon/blob/main/next.png?raw=true'  width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/node.png?raw=true" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/mongo.png?raw=true" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/postgres.png?raw=true" alt="PostgreSQL" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="Prisma" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/go.png?raw=true" alt="Go" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/postgres.png?raw=true" alt="PostgreSQL" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/ts.png?raw=true" alt="Typescript" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/mongo.png?raw=true" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.go.dev" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/go.png?raw=true" alt="Go" width="40" height="40"/></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsierra&show_icons=true&locale=en&layout=compact" alt="elsierra" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsierra&show_icons=true&locale=en" alt="elsierra" /></p>
