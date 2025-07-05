@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ojo Isaac</h1>
 <h3 align="center">Full Stack Web Developer & Mobile Developer</h3>
-<div align="right">
-  <img
-    alt="Coding"
-    width="200"
-    src="https://github.com/user-attachments/assets/3b56cb13-7d43-47ac-acfa-49c4491fa881"
-    style="border-radius: 9999px; display: block; margin-left: auto; margin-right: auto;"
-  />
-</div>
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/3b56cb13-7d43-47ac-acfa-49c4491fa881" style='display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  over-flow: hidden;
+  border-radius: 99999px; ' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsierra&label=Profile%20views&color=0e75b6&style=flat" alt="elsierra" /> </p>
 🌱 I’m currently learning Go!
 
