@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ojo Isaac</h1>
 <h3 align="center">Full Stack Web Developer & Mobile Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ElSierra/elsierra.github.io/main/assets/hi.png" style='display: block;
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/3b56cb13-7d43-47ac-acfa-49c4491fa881" style='display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
@@ -18,6 +18,7 @@
   https://linkedin.com/in/hojoisaac
 </a>
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/ElSierra/mystack-icon/blob/main/react.png?raw=true" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src='https://github.com/ElSierra/mystack-icon/blob/main/next.png?raw=true'  width="40" height="40"/></a>
